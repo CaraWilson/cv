@@ -11,35 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Oceanography, Oregon State University, 1997
+* B.Sc. in Oceanography, University of Michigan, 1989
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2002 – present: NOAA Fisheries Research Oceanographer, Monterey, CA
+* 1999 – 2002: 	Assistant Research Scientist, GEST & USRA, NASA/Goddard. Greenbelt, MD 
+* 1997 – 1999:	InterRidge Coordinator, Université Pierre et Marie Curie, Paris, France  
+* 1994 – 1997:	Graduate Research Assistant, College of Oceanic and Atmospheric Sciences, Oregon State University, Corvallis, OR  
+* 1993 – 1993:	Visiting Researcher, IFREMER, DRO/GM, Plouzané, France  
+* 1991 – 1994: 	Office of Naval Research Graduate Fellow
+* 1989 – 1991	Oceanography Associate, Brookhaven National Laboratory, Upton, NY  
+ 
+<img width="471" height="122" alt="image" src="https://github.com/user-attachments/assets/24c3a39a-14e9-42c0-a4d8-a38f1923b0fb" />
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -61,4 +47,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer trip leader with the Sierra Club 
