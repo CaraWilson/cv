@@ -1,14 +1,77 @@
+#---
+#title: "Paper Title Number 1"
+#collection: publications
+#category: manuscripts
+#permalink: /publication/2009-10-01-paper-title-number-1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#date: 2009-10-01
+#venue: 'Journal 1'
+#slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+#bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#---
+#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full #page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" #field will automatically be included below this section in a smaller font.
+
+
+#---
+title: "Publications"
+#collection: publications
+#category: manuscripts
+permalink: /publications/
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Wilson, C., J. Hinke and M. Mazloff (2025), Long-distance winter migrations of chinstrap penguins and elephant seals to a persistent bloom at the edge of the Ross Gyre, Scientific Reports, https://doi.org/10.1038/s41598-025-87433-6.
+Wilson, C, and D. H. Robinson (2022) Satellite Monitoring of Sea Surface Temperature and Chlorophyll for Sustainable Fishing ERDDAP, Proceeding of the 2022 IEEE International Geoscience and Remote Sensing Symposium 
+Wilson, C (2021), Evidence of Episodic Nitrate Injections in the Oligotrophic North Pacific Associated with Surface Chlorophyll Blooms, Journal of Geophysical Research: Oceans. 126, e2021JC017169. https://doi.org/10.1029/2021JC017169. 
+Welch, H., S. Brodie, M.G. Jacox, D.H. Robinson, C. Wilson, S. J. Bograd, M.J. Oliver, E.L. Hazen (2020) Considerations for transferring an operational dynamic ocean management tool between ocean color products. Remote Sensing of the Environment. 242, 111753. 
+Wilson, C, D. H. Robinson and R.A. Simons (2020) ERDDAP: Providing easy access to remote sensing data for scientists and students, Proceeding of the 2020 IEEE International Geoscience and Remote Sensing Symposium 
+Wilson, C, D.H. Robinson and S.K. Shotwell (2020) Overcoming Barriers to the use of Satellite data in Fisheries Management, Proceeding of the 2020 IEEE International Geoscience and Remote Sensing Symposium. 
+Wilson, C, Robinson, D.H. (2019) Lessons Learned from the NOAA CoastWatch Ocean Satellite Course Developed for Integrating Oceanographic Satellite ata into Operational Use. Int. J. Geo-Inf. 2019, 8(8), 354; https://doi.org/10.3390/ijgi8080354
+Anderson E.E, C. Wilson, A. H. Knap and T. A. Villareal (2018), Summer diatom blooms in the eastern North Pacific gyre investigated with a long-endurance autonomous surface vehicle. PeerJ 6:e5387; DOI 10.7717/peerj.5387
+Eguchi, Tomoharu, Sam McClatchie, Cara Wilson, Scott R. Benson, Robin A. LeRoux, and Jeffrey A. Seminoff (2018), Loggerhead turtles (Caretta caretta) in the California Current: abundance, distribution, and anomalous warming of the North Pacific, Frontiers in Marine Science 5:452, DOI: 10.3389/fmars.2018.00452
+Lotliker, A.A., S.K. Baliarsingh, V. L. Trainer, M. L. Wells, C. Wilson, T.V.S.U. Bhaskar, A. Samanta, and S. R. Shahimol (2018), Noctiluca blooms are not associated with hypoxia in the Northeastern Arabian Sea oceanic waters, Harmful Algae, 74, 46-57
+Lee, Z., R. Arnone, D. Boyce, B. A. Franz, S. Greb, C. Hu, S. Lavender, M. Lewis, B. Schaeffer, S. Shang, M. Wang, M. Wernand, and C. Wilson (2018), Global water clarity: continuing a century-long monitoring, Eos, 99, https://doi.org/10.1029/2018EO097251  
+Qi, L., C. Hu, M. Wang, S. Shang and C. Wilson (2017), Floating algae blooms in the East China Sea, Geophys. Res. Lett., doi: 10.1002/2017GL075525
+Wilson, C., A. V. Sastre, M. Hoffmeyer, V. J. Rowntree, S. Fire, N. H. Santinelli, S. D. Ovejero, V. D’Agostino, C. F. Marón, G. J. Doucette, M. H. Broadwater, Z. Wang, N. Montoya, J. Seger, F.R. Adler, M. Sironi, M. M. Uhart (2016) Southern right whale (Eubalaena australis) calf mortality at Península Valdés, Argentina: are harmful algal blooms to blame?, Marine Mammal Science, 32(2),423-451, DOI: 10.1111/mms.12263. 
+Rose, R.A., D. Byler, J.R. Eastman, E. Fleishman, G. Geller, S. Goetz, L. Guild, H. Hamilton, M. Hansen, R. Headley, J. Hewson, N. Horning, B. A. Kaplin, N. Laporte, A. Leidner, P. Leimgruber, J. Morisette, J. Musinsky, L. PinteaI, A. Prados, V. C. Radeloff, M. Rowen, S. Saatchi, S. Schill, K. Tabor, W. Turner, A. Vodacek, J. Vogelmann, M. Wegmann, D. Wilkie & C. Wilson (2014). Ten Ways Remote Sensing Can Contribute to Conservation, Conservation Biology, doi: 10.1111/cobi.12397
+Villareal, T.A. & C. Wilson (2014) A comparison of the Pac-X trans-Pacific Wave Glider data and satellite data (MODIS, Aquarius, TRMM and VIIRS), PlosOne, 9(3): e92280. doi:10.1371/journal.pone.0092280. Winner of Liquid Robotic’s Pax-X challenge. 
+Fernadez, D. & C. Wilson (2013), User Engagement and Requirements, Chapter 3 in U.S. Integrated Ocean Observing System (IOOS) 2012 Summit Report. 
+Wilson, C., T.A. Villareal, M. Brzezinski, J. W. Krause & A. Shcherbina (2013).  Chlorophyll bloom development and the Subtropical Front in the North Pacific, J. Geophys. Res., 118, 1473-1488, doi:10.1002/jgrc.20143
+Krause, J.W., M. A. Brzezinski, T.A. Villareal, & C. Wilson (2013), Biogenic silica cycling during summer phytoplankton blooms in the North Pacific subtropical gyre, Deep-Sea Research I, 71, 49-60. 
+Krause, J.W., M.A. Brzezinski, T.A. Villareal, & C. Wilson (2012) Increased kinetic efficiency for silicic acid uptake as a driver of summer diatom blooms in the North Pacific subtropical gyre, Limnology & Oceanography, 57,1084-1098.
+Villareal, T.A., C.G. Brown, M.A. Brzezinski & C. Wilson (2012) Summer diatom blooms in the North Pacific Subtropical Gyre: 2008-2009, PLoS ONE, 7(4): e33109. doi:10.1371/journal.pone.0033109
+Wilson, C. (2011), Chlorophyll anomalies along the critical latitude at 30°N in the NE Pacific, Geophys. Res. Lett, doi:10.1029/2011GL048210 
+Villareal, T., L. Adornato, C. Wilson, & C. Schoenbaechler (2011), Summer blooms of diatom-diazotroph assemblages (DDAs) and surface chlorophyll in the N. Pacific gyre - a disconnect, J. Geophys. Res, 116, C03001, doi:10.1029/2010JC006268
+Wilson, C. (2011) The rocky road from research to operations for satellite ocean-colour data in fishery management. ICES Journal of Marine Science, 68, doi:10.1093/icesjms/fsq168. 
+Yoder, J.A., S.C. Doney, D.A. Siegel, & C. Wilson. (2010) Study of Marine Ecosystems and Biogeochemistry Now and in the Future. Oceanography, 23(4), 128-141. 
+Wilson, C. (2010) Fisheries, invited chapter contribution in the Encyclopedia of Remote Sensing, Springer publications. 
+Wilson, C., C. Chen, C. Clark, P. Fanning, M.-H. Forget, K. Friedland, E. A. Howell, C. Hu, K. Hyde, D.R. Kobayashi, A. Longhurst, B. Monger, D. Pendleton, A. Pershing, T. Platt, J.J. Polovina, N. Record, K. Sherman & L. Woodard (2009). Remote Sensing Applications to Fisheries Management in Remote Sensing in Fisheries and Aquaculture. pp 43-56, IOCCG report #8, Dartmouth, Canada.
+Bundy, A. G. Borstad, J. Field, S. Groom, N. Hoepffner, C. Hu, V. Lutz, & C. Wilson (2009) Building Links with the Fishing, Aquaculture and Management Communities Management in Remote Sensing in Fisheries and Aquaculture, pg 89-102, IOCCG report #8, Dartmouth, Canada.
+Wilson, C., J. Morales, S. Nayak, I. Asanuma & G. Feldman (2008). Ocean Colour Radiometry and Fisheries in Why Ocean Colour? The Societal Benefits of Ocean-Colour Technology, pp 47-58, IOCCG report #7, Dartmouth, Canada.
+Hoepffner, N., C. Wilson, & S. Lavender (2008). Ocean Colour and Climate Change in Why Ocean Colour? The Societal Benefits of Ocean-Colour Technology, pg 103-109, IOCCG report #7, Dartmouth, Canada.
+Hoepffner, N., F. Mélin, M. Dowell, J. Marra, T. Saino & C. Wilson (2008). Biogeochemical Cycles in Why Ocean Colour? The Societal Benefits of Ocean-Colour Technology, pp 31-46, IOCCG report #7, Dartmouth, Canada. 
+Wilson, C. & X. Qiu (2008). Global distribution of summer chlorophyll blooms in the oligotrophic gyres. Prog. Ocean., 78, 107-134. 
+Wilson, C., T.A. Villareal, N. Maximenko, S.J. Bograd, J.P. Montoya & C.A. Schoenbaechler (2008). Biological and physical forcings of late summer chlorophyll blooms at 30°N in the oligotrophic Pacific, Journal of Marine Systems, doi:10.1016/j.jmarsys.2005.09.018.
+Friedl, L., C. Wilson, Y. Chao, S. Bograd & W. Turner (2006), Using Satellite Data Products to Manage Living Marine Resources, EOS, 87(41), 437.
+Wilson, C. and V.J. Coles (2005). Global climatological relationships between satellite biological and physical observations and upper ocean properties, J. Geophys. Res., 110, C10001, doi: 10.1029/2004JC002724. 
+Hinke, J.T., D.G. Foley, C. Wilson & G.M. Watters (2005), Persistent habitat use by Chinook salmon (Oncorhynchus tshawytscha) in the coastal ocean, Mar. Ecol. Prog. Ser., 304, 207-220.
+Bograd, S.J., D.G. Foley, F.B. Schwing, C. Wilson, R.M. Laurs, J.J. Polovina, E.A. Howell & R.E. Brainard (2004). On the seasonal and interannual migrations of the Transition Zone Chlorophyll Front, Geophys. Res. Lett., Vol. 31, No. 17, L17204, 10.1029/2004GL020637.
+Coles, V.J., C. Wilson & R.R. Hood (2004). Remote sensing of new production fueled by nitrogen fixation. Geophys. Res. Lett, 31, L06301, doi:10.1029/2003019018. 
+Wilson, C (2003). Late summer chlorophyll blooms in the oligotrophic North Pacific subtropical gyre.  Geophys. Res. Lett., 30(18), 1942, 10.1029/2003GL017770.
+Wilson, C. & D. Adamec (2002).  A global view of bio-physical coupling from SeaWiFS and TOPEX satellite data, 1997-2001. Geophys. Res. Lett., 29, 10.1029/2001GL014063. 
+Wilson, C. & D. Adamec (2001).  Correlations between surface chlorophyll and sea surface height in the tropical Pacific during the 1997-1999 El Niño-Southern Oscillation event. J. Geophys. Res., 106, 31,175-31,188. 
+Klinkhammer, G.P, C.S. Chin, R.A. Keller, A. Dahlmann, H. Sahling, G. Sarthou S, Petersen, F. Smith F & C. Wilson (2001). Discovery of new hydrothermal vent sites in Bransfield Strait, Antarctica. Earth Plant. Sci. Lett.,193, 395-407.
+Wilson, C., G.P. Klinkhammer, & C.S. Chin (1999). Hydrography of the Central and East Basins of the Bransfield Strait, Antarctica. J. Phys. Ocean., 29: 465-479. 
+Ashjian, C. J, S. L. Smith, C. N. Flagg & C. Wilson (1998). Patterns and occurrence of diel vertical migration of zooplankton biomass in the Mid-Atlantic Bight described by an acoustic Doppler current profiler. Cont. Shelf Res., 18, 831-858. 
+Biscoito, M., C. Cary, D. Dixon & C. Wilson, eds (1998). Proceedings of the first international symposium on deep-sea hydrothermal biology. Cah. Biol. Mar., 39(3/4).
+Chin, C. S, G. P. Klinkhammer & C. Wilson (1998).  Detection of hydrothermal plumes on the northern MAR: results from optical measurements. Earth Planet. Sci. Lett., 162: 1-13. 
+Langmuir, C. L., S. Humphris, D. Fornari, C. L. Van Dover, K. Von Damm, M. K. Tivey, D. Colodner, J.-L. Charlou, D. Desonie, C. Wilson, Y. Fouquet, G. P. Klinkhammer, & H. Bougault (1997). Hydrothermal vents near a mantle hot spot: the Lucky Strike vent field at 37°N on the Mid-Atlantic Ridge. Earth Planet Sci. Lett., 148, 69-91. 
+Klinkhammer, G.P., C.S. Chin, C. Wilson, M.D. Rudnicki & C.R. German (1997). Distributions of dissolved manganese and fluorescent dissolved organic matter in the Columbia River estuary and plume as determined by in situ measurement. Mar. Chem., 56, 1-14. 
+Klinkhammer G. P., C. Wilson, C. S. Chin & M. D. Rudnicki (1996). Dissolved humic organic matter in the Columbia River estuary measured by in situ fluorescence, In: Fourth International Symposium on the Geochemistry of the Earth's Surface (S. H. Botrell, ed.), 299-310, University of Leeds, UK.
+Wilson, C. , J.-L. Charlou, E. Ludford, G. Klinkhammer, C. Chin, H. Bougault, C. German, K. Speer and M. Palmer (1996). Hydrothermal anomalies at Lucky Strike (37°17'N), on the Mid-Atlantic Ridge. Earth Planet. Sci. Lett., 142: 467-478. 
+Klinkhammer, G. P., C. S. Chin, C. Wilson and C. R. German (1995). Venting from the Mid-Atlantic Ridge at 37°17'N: The Lucky Strike Hydrothermal site. In: Hydrothermal Vents and Processes. Bath, UK. Geological Society Special Publication, 87, 87-96. 
+Wilson, C., K. Speer, J.-L. Charlou, H. Bougault and G. Klinkhammer (1995). Hydrography above the Mid-Atlantic Ridge (33°-40°N) and within the Lucky Strike segment. J. Geophys. Res., 100: 20,555-20,564.
+Falkowski, P. G., Y. Kim, Z. Kolber, C. Wilson, C. Wirick and R. Cess (1992). Natural versus anthropogenic factors affecting low-level cloud albedo over the North Atlantic. Science, 256: 1311-1313. 
+Falkowski, P. G. and C. Wilson (1992). Phytoplankton productivity in the North Pacific Ocean since 1900 and implications for absorption of anthropogenic CO2. Nature, 358, 741-743. 
+Wilson, C. and D. W. R. Wallace (1990). Using the nutrient ratio NO/PO as a tracer of continental shelf waters in the central Arctic Ocean. J. Geophys. Res., 95, 22,193-22,208.
