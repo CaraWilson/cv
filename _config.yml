@@ -26,10 +26,10 @@ author:
   avatar           : "withJPSSmodel2.jpg"
   name             : "Cara Wilson"
   pronouns         :   
-  bio              : "Satellite Oceanographer working for NOAA Fisheries"
+  bio              : "Satellite Oceanographer with over 22 years of experience working with fisheries scientists and marine resource managers to increase the operational use of satellite data."
   location         : "Monterey, CA"
   employer         : "NOAA Fisheries"
-  uri              : "https://www.noaa.gov"
+  uri              : 
   email            : "cara.wilson@noaa.gov" 
 
   # Academic websites
