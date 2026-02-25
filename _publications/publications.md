@@ -1,8 +1,8 @@
-#---
+---
+layout: single   
 title: "Publications"
-#collection: publications
-#category: manuscripts
 permalink: /publications/
+author_profile: true
 ---
 
 1. Wilson, C., J. Hinke and M. Mazloff (2025), Long-distance winter migrations of chinstrap penguins and elephant seals to a persistent bloom at the edge of the Ross Gyre, Scientific Reports, https://doi.org/10.1038/s41598-025-87433-6.
