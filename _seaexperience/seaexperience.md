@@ -1,7 +1,6 @@
 ---
 title: 'Sea Experience'
 permalink: /seaexperience/
-
 ---
 14 cruises, 276 days at sea 
 
