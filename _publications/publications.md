@@ -46,7 +46,7 @@ author_profile: true
   <button class="filter-btn" onclick="filterCategory('southern-ocean', this)">Southern Ocean</button>
   <button class="filter-btn" onclick="filterCategory('blooms', this)">Chlorophyll Blooms</button>
   <button class="filter-btn" onclick="filterCategory('hydrothermal', this)">Hydrothermal</button>
-  <button class="filter-btn" onclick="filterCategory('other', this)">other</button>
+  <button class="filter-btn" onclick="filterCategory('other', this)">Other</button>
 </div>
 
 <input type="text" id="pubSearch" onkeyup="filterPubs()" placeholder="Search by keyword, year, or co-author..." style="width: 100%; padding: 12px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px;">
@@ -113,25 +113,25 @@ function filterPubs() {
   <li data-category="blooms"><b>Wilson, C.</b> & X. Qiu (2008). Global distribution of summer chlorophyll blooms in the oligotrophic gyres. Prog. Ocean., 78, 107-134.</li>
   <li data-category="blooms"><b>Wilson, C.</b>, et al. (2008). Biological and physical forcings of late summer chlorophyll blooms at 30°N. <a href="https://doi.org/10.1016/j.jmarsys.2005.09.018">https://doi.org/10.1016/j.jmarsys.2005.09.018</a>.</li>
   <li data-category="fisheries satellite">Friedl, L., <b>C. Wilson</b>, et al. (2006), Using Satellite Data Products to Manage Living Marine Resources, EOS, 87(41), 437.</li>
-  <li data-category="satellite"><b>Wilson, C.</b> and V.J. Coles (2005). Global climatological relationships between satellite biological and physical observations. <a href="https://doi.org/10.1029/2004JC002724">https://doi.org/10.1029/2004JC002724</a>.</li>
+  <li data-category="satellite"><b>Wilson, C.</b> and V.J. Coles (2005). Global climatological relationships between satellite biological and physical observations. J. Geophys. Res., 110, C10001. <a href="https://doi.org/10.1029/2004JC002724">https://doi.org/10.1029/2004JC002724</a>.</li>
   <li data-category="fisheries">Hinke, J.T., D.G. Foley, <b>C. Wilson</b> & G.M. Watters (2005), Persistent habitat use by Chinook salmon, Mar. Ecol. Prog. Ser., 304, 207-220.</li>
-  <li data-category="satellite">Bograd, S.J., et al. (including <b>C. Wilson</b>) (2004). On the seasonal and interannual migrations of the Transition Zone Chlorophyll Front. <a href="https://doi.org/10.1029/2004GL020637">https://doi.org/10.1029/2004GL020637</a></li>
-  <li data-category="satellite">Coles, V.J., <b>C. Wilson</b> & R.R. Hood (2004). Remote sensing of new production fueled by nitrogen fixation. <a href="https://doi.org/10.1029/2003019018">https://doi.org/10.1029/2003019018</a></li>
-  <li data-category="blooms"><b>Wilson, C.</b> (2003). Late summer chlorophyll blooms in the oligotrophic North Pacific subtropical gyre. <a href="https://doi.org/10.1029/2003GL017770">https://doi.org/10.1029/2003GL017770</a></li>
-  <li data-category="satellite"><b>Wilson, C.</b> & D. Adamec (2002). A global view of bio-physical coupling from SeaWiFS and TOPEX, <a href="https://doi.org/10.1029/2001GL014063">https://doi.org/10.1029/2001GL014063</a>.</li>
+  <li data-category="satellite">Bograd, S.J., et al. (including <b>C. Wilson</b>) (2004). On the seasonal and interannual migrations of the Transition Zone Chlorophyll Front. Geophys. Res. Lett., Vol. 31, No. 17, L17204. <a href="https://doi.org/10.1029/2004GL020637">https://doi.org/10.1029/2004GL020637</a></li>
+  <li data-category="satellite">Coles, V.J., <b>C. Wilson</b> & R.R. Hood (2004). Remote sensing of new production fueled by nitrogen fixation. Geophys. Res. Lett, 31, L06301. <a href="https://doi.org/10.1029/2003019018">https://doi.org/10.1029/2003019018</a></li>
+  <li data-category="blooms"><b>Wilson, C.</b> (2003). Late summer chlorophyll blooms in the oligotrophic North Pacific subtropical gyre. Geophys. Res. Lett., 30(18), 1942. <a href="https://doi.org/10.1029/2003GL017770">https://doi.org/10.1029/2003GL017770</a></li>
+  <li data-category="satellite"><b>Wilson, C.</b> & D. Adamec (2002). A global view of bio-physical coupling from SeaWiFS and TOPEX, J. Geophys. Res., 106, 31,175-31,188. <a href="https://doi.org/10.1029/2001GL014063">https://doi.org/10.1029/2001GL014063</a>.</li>
   <li data-category="satellite"><b>Wilson, C.</b> & D. Adamec (2001). Correlations between surface chlorophyll and sea surface height in the tropical Pacific. J. Geophys. Res., 106, 31,175-31,188.</li>
-  <li data-category="hydrothermal southern-ocean">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (2001). Discovery of new hydrothermal vent sites in Bransfield Strait, Antarctica.</li>
+  <li data-category="hydrothermal southern-ocean">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (2001). Discovery of new hydrothermal vent sites in Bransfield Strait, Antarctica. Earth Plant. Sci. Lett.,193, 395-407.</li>
   <li data-category="hydrothermal southern-ocean"><b>Wilson, C.</b>, G.P. Klinkhammer, & C.S. Chin (1999). Hydrography of the Central and East Basins of the Bransfield Strait, Antarctica. J. Phys. Ocean., 29: 465-479.</li>
   <li data-category="other">Ashjian, C. J., et al. (including <b>C. Wilson</b>) (1998). Diel vertical migration of zooplankton biomass. Cont. Shelf Res., 18, 831-858.</li>
-  <li data-category="hydrothermal">Biscoito, M., et al. (including <b>C. Wilson</b>), eds (1998). Proceedings of the first international symposium on deep-sea hydrothermal biology.</li>
-  <li data-category="hydrothermal">Chin, C. S., G. P. Klinkhammer & <b>C. Wilson</b> (1998). Detection of hydrothermal plumes on the northern MAR. Earth Planet. Sci. Lett.</li>
-  <li data-category="hydrothermal">Langmuir, C. L., et al. (including <b>C. Wilson</b>) (1997). Hydrothermal vents near a mantle hot spot: Lucky Strike vent field at 37°N.</li>
-  <li data-category="other">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (1997). Distributions of dissolved manganese and fluorescent DOM in the Columbia River estuary.</li>
-  <li data-category="other">Klinkhammer G. P., <b>C. Wilson</b>, et al. (1996). Dissolved humic organic matter in the Columbia River estuary.</li>
-  <li data-category="hydrothermal"><b>Wilson, C.</b>, et al. (1996). Hydrothermal anomalies at Lucky Strike (37°17'N), on the Mid-Atlantic Ridge. Earth Planet. Sci. Lett.</li>
-  <li data-category="hydrothermal">Klinkhammer, G. P., et al. (including <b>C. Wilson</b>) (1995). Venting from the Mid-Atlantic Ridge at 37°17'N.</li>
-  <li data-category="hydrothermal"><b>Wilson, C.</b>, et al. (1995). Hydrography above the Mid-Atlantic Ridge (33°-40°N) and within the Lucky Strike segment.</li>
-  <li data-category="other">Falkowski, P. G., et al. (including <b>C. Wilson</b>) (1992). Natural versus anthropogenic factors affecting low-level cloud albedo. Science.</li>
-  <li data-category="other">Falkowski, P. G. and <b>C. Wilson</b> (1992). Phytoplankton productivity in the North Pacific Ocean since 1900. Nature.</li>
-  <li data-category="other"><b>Wilson, C.</b> and D. W. R. Wallace (1990). Using the nutrient ratio NO/PO as a tracer of continental shelf waters in the central Arctic Ocean.</li>
+  <li data-category="hydrothermal">Biscoito, M., et al. (including <b>C. Wilson</b>), eds (1998). Proceedings of the first international symposium on deep-sea hydrothermal biology. Cah. Biol. Mar., 39(3/4).</li>
+  <li data-category="hydrothermal">Chin, C. S., G. P. Klinkhammer & <b>C. Wilson</b> (1998). Detection of hydrothermal plumes on the northern MAR. Earth Planet. Sci. Lett. 162: 1-13.</li>
+  <li data-category="hydrothermal">Langmuir, C. L., et al. (including <b>C. Wilson</b>) (1997). Hydrothermal vents near a mantle hot spot: Lucky Strike vent field at 37°N. Earth Planet Sci. Lett., 148, 69-91.</li>
+  <li data-category="other">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (1997). Distributions of dissolved manganese and fluorescent DOM in the Columbia River estuary. Mar. Chem., 56, 1-14.</li>
+  <li data-category="other">Klinkhammer G. P., <b>C. Wilson</b>, et al. (1996). Dissolved humic organic matter in the Columbia River estuary.  In: Fourth International Symposium on the Geochemistry of the Earth's Surface (S. H. Botrell, ed.), 299-310, University of Leeds, UK.</li>
+  <li data-category="hydrothermal"><b>Wilson, C.</b>, et al. (1996). Hydrothermal anomalies at Lucky Strike (37°17'N), on the Mid-Atlantic Ridge. Earth Planet. Sci. Lett., 142: 467-478.</li>
+  <li data-category="hydrothermal">Klinkhammer, G. P., et al. (including <b>C. Wilson</b>) (1995). Venting from the Mid-Atlantic Ridge at 37°17'N. In: Hydrothermal Vents and Processes. Bath, UK. Geological Society Special Publication, 87, 87-96.</li>
+  <li data-category="hydrothermal"><b>Wilson, C.</b>, et al. (1995). Hydrography above the Mid-Atlantic Ridge (33°-40°N) and within the Lucky Strike segment. J. Geophys. Res., 100: 20,555-20,564.</li>
+  <li data-category="other">Falkowski, P. G., et al. (including <b>C. Wilson</b>) (1992). Natural versus anthropogenic factors affecting low-level cloud albedo. Science, 256: 1311-1313.</li>
+  <li data-category="other">Falkowski, P. G. and <b>C. Wilson</b> (1992). Phytoplankton productivity in the North Pacific Ocean since 1900. Nature, 358, 741-743.</li>
+  <li data-category="other"><b>Wilson, C.</b> and D. W. R. Wallace (1990). Using the nutrient ratio NO/PO as a tracer of continental shelf waters in the central Arctic Ocean. J. Geophys. Res., 95, 22,193-22,208.</li>
 </ol>
