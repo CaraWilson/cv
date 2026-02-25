@@ -1,9 +1,7 @@
 ---
+layout: single
+title: ""  # Change this from "About Me" or "Cara Wilson" to empty quotes
 permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 
