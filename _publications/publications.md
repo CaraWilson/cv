@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+  ol.reverse {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+</style>
+
 1. Wilson, C., J. Hinke and M. Mazloff (2025), Long-distance winter migrations of chinstrap penguins and elephant seals to a persistent bloom at the edge of the Ross Gyre, Scientific Reports, https://doi.org/10.1038/s41598-025-87433-6.
 1. Wilson, C, and D. H. Robinson (2022) Satellite Monitoring of Sea Surface Temperature and Chlorophyll for Sustainable Fishing ERDDAP, Proceeding of the 2022 IEEE International Geoscience and Remote Sensing Symposium 
 1. Wilson, C (2021), Evidence of Episodic Nitrate Injections in the Oligotrophic North Pacific Associated with Surface Chlorophyll Blooms, Journal of Geophysical Research: Oceans. 126, e2021JC017169. https://doi.org/10.1029/2021JC017169. 
