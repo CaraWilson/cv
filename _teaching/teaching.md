@@ -1,6 +1,6 @@
 ---
 layout: single   
-title: ""
+title: "Teaching Experiences"
 permalink: /teaching/
 author_profile: true
 ---
@@ -72,4 +72,3 @@ In 2006 I established the [CoastWatch Satellite Course](https://coastwatch-train
 * Nov 2018, PORSEC pre-conference tutorial, Jeju, S. Korea (instructor)
 * Nov 2016, PORSEC pre-conference tutorial, Fortaleza, Brazil (instructor)
 * Oct 2014, PORSEC pre-conference tutorial, Bali, Indonesia (instructor)
-
