@@ -5,8 +5,7 @@ permalink: /seaexperience/
 author_profile: true
 ---
 
-**Career Summary:** 14 cruises | 276 days at sea 
-
+**14 cruises | 276 days at sea**
 ---
 
 ## 2020s
