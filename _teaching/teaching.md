@@ -9,7 +9,12 @@ author_profile: true
 ---
 
 <style>
-  .page__meta { display: none !important; }
+  .page__meta, .page__taxonomy, .page__date, .page__header-container { 
+    display: none !important; 
+  }
+  header.page__header {
+    display: block !important;
+  }
 </style>
 
 **CoastWatch Satellite Course**
