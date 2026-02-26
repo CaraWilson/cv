@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,9 +9,9 @@ author_profile: true
 
 ## Education
 
-**1997 — Ph.D. in Oceanography** *Oregon State University, Corvallis, OR* <small>Dissertation: [Hydrography and heat flux in hydrothermal regions]</small>
+**1997 — Ph.D. in Oceanography** *Oregon State University, Corvallis, OR* <small>Dissertation: Hydrography and heat flux in hydrothermal regions</small>
 
-**1989 — B.Sc. in Oceanography** *University of Michigan, Ann Arbor, MI** Ph.D. in Oceanography, Oregon State University, 1997
+**1989 — B.Sc. in Oceanography** *University of Michigan, Ann Arbor, MI*
 
 ## Work experience
 
