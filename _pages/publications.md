@@ -106,13 +106,13 @@ function filterPubs() {
   <li data-category="fisheries satellite"><b>Wilson, C.</b> (2011) The rocky road from research to operations for satellite ocean-colour data in fishery management. <a href="https://doi.org/10.1093/icesjms/fsq168">https://doi.org/10.1093/icesjms/fsq168</a>.</li>
   <li data-category="satellite">Yoder, J.A., S.C. Doney, D.A. Siegel, & <b>C. Wilson.</b> (2010) Study of Marine Ecosystems and Biogeochemistry Now and in the Future. Oceanography, 23(4), 128-141.</li>
   <li data-category="fisheries satellite"><b>Wilson, C.</b> (2010) Fisheries, Encyclopedia of Remote Sensing.</li>
-  <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2009). Remote Sensing Applications to Fisheries Management. IOCCG report #8.</li>
+  <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2009). <a href="/cv/files/Wilson_2009.pdf">Remote Sensing Applications to Fisheries Management.</a> IOCCG report #8.</li>
   <li data-category="fisheries satellite">Bundy, A., et al. (including <b>C. Wilson</b>) (2009) Building Links with the Fishing Communities, IOCCG report #8.</li>
-  <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2008). Ocean Colour Radiometry and Fisheries, IOCCG report #7.</li>
-  <li data-category="satellite">Hoepffner, N., <b>C. Wilson</b>, & S. Lavender (2008). Ocean Colour and Climate Change, IOCCG report #7.</li>
-  <li data-category="satellite">Hoepffner, N., et al. (including <b>C. Wilson</b>) (2008). Biogeochemical Cycles, IOCCG report #7.</li>
-  <li data-category="blooms"><b>Wilson, C.</b> & X. Qiu (2008). Global distribution of summer chlorophyll blooms in the oligotrophic gyres. Prog. Ocean., 78, 107-134.</li>
-  <li data-category="blooms"><b>Wilson, C.</b>, et al. (2008). Biological and physical forcings of late summer chlorophyll blooms at 30°N. <a href="https://doi.org/10.1016/j.jmarsys.2005.09.018">https://doi.org/10.1016/j.jmarsys.2005.09.018</a>.</li>
+  <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2008). <a href="/cv/files/Wilson_IOCCG_2008.pdf">Ocean Colour Radiometry and Fisheries</a>, IOCCG report #7.</li>
+  <li data-category="satellite">Hoepffner, N., <b>C. Wilson</b>, & S. Lavender (2008).  <a href="/cv/files/Hoepffner_CC_2008.pdf">Ocean Colour and Climate Change</a>, IOCCG report #7.</li>
+  <li data-category="satellite">Hoepffner, N., et al. (including <b>C. Wilson</b>) (2008). <a href="/cv/files/Hoepffner_BGC_2008.pdf">Biogeochemical Cycles</a>, IOCCG report #7.</li>
+  <li data-category="blooms"><b>Wilson, C.</b> & X. Qiu (2008). <a href="/cv/files/Wilson_PO_2008.pdf">Global distribution of summer chlorophyll blooms in the oligotrophic gyres.</a> Prog. Ocean., 78, 107-134.</li>
+  <li data-category="blooms"><b>Wilson, C.</b>, et al. (2008). <a href="/cv/files/Wilson_JMS_2008.pdf">Biological and physical forcings of late summer chlorophyll blooms at 30°N.</a> <a href="https://doi.org/10.1016/j.jmarsys.2005.09.018">https://doi.org/10.1016/j.jmarsys.2005.09.018</a>.</li>
   <li data-category="fisheries satellite">Friedl, L., <b>C. Wilson</b>, et al. (2006), <a href="/cv/files/Friedl_2006.pdf">Using Satellite Data Products to Manage Living Marine Resources.</a> EOS, 87(41), 437.</li>
   <li data-category="satellite"><b>Wilson, C.</b> and V.J. Coles (2005). Global climatological relationships between satellite biological and physical observations. J. Geophys. Res., 110, C10001. <a href="https://doi.org/10.1029/2004JC002724">https://doi.org/10.1029/2004JC002724</a>.</li>
   <li data-category="fisheries">Hinke, J.T., D.G. Foley, <b>C. Wilson</b> & G.M. Watters (2005), <a href="/cv/files/Hinke_2005.pdf">Persistent habitat use by Chinook salmon.</a> Mar. Ecol. Prog. Ser., 304, 207-220.</li>
