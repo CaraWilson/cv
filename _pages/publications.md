@@ -104,10 +104,10 @@ function filterPubs() {
   <li data-category="blooms"><b>Wilson, C.</b> (2011), Chlorophyll anomalies along the critical latitude at 30°N in the NE Pacific. <a href="https://doi.org/10.1029/2011GL048210">https://doi.org/10.1029/2011GL048210</a></li>
   <li data-category="blooms">Villareal, T., L. Adornato, <b>C. Wilson</b>, & C. Schoenbaechler (2011), Summer blooms of diatom-diazotroph assemblages (DDAs), <a href="https://doi.org/10.1029/2010JC006268">https://doi.org/10.1029/2010JC006268</a></li>
   <li data-category="fisheries satellite"><b>Wilson, C.</b> (2011) The rocky road from research to operations for satellite ocean-colour data in fishery management. <a href="https://doi.org/10.1093/icesjms/fsq168">https://doi.org/10.1093/icesjms/fsq168</a>.</li>
-  <li data-category="satellite">Yoder, J.A., S.C. Doney, D.A. Siegel, & <b>C. Wilson.</b> (2010) Study of Marine Ecosystems and Biogeochemistry Now and in the Future. Oceanography, 23(4), 128-141.</li>
+  <li data-category="satellite">Yoder, J.A., S.C. Doney, D.A. Siegel, & <b>C. Wilson.</b> (2010) <a href="/cv/files/Yoder_2010.pdf">Study of Marine Ecosystems and Biogeochemistry Now and in the Future.</a> Oceanography, 23(4), 128-141.</li>
   <li data-category="fisheries satellite"><b>Wilson, C.</b> (2010) Fisheries, Encyclopedia of Remote Sensing.</li>
   <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2009). <a href="/cv/files/Wilson_2009.pdf">Remote Sensing Applications to Fisheries Management.</a> IOCCG report #8.</li>
-  <li data-category="fisheries satellite">Bundy, A., et al. (including <b>C. Wilson</b>) (2009) Building Links with the Fishing Communities, IOCCG report #8.</li>
+  <li data-category="fisheries satellite">Bundy, A., et al. (including <b>C. Wilson</b>) (2009) <a href="/cv/files/Bundy_2009.pdf">Building Links with the Fishing Communities</a>, IOCCG report #8.</li>
   <li data-category="fisheries satellite"><b>Wilson, C.</b>, et al. (2008). <a href="/cv/files/Wilson_IOCCG_2008.pdf">Ocean Colour Radiometry and Fisheries</a>, IOCCG report #7.</li>
   <li data-category="satellite">Hoepffner, N., <b>C. Wilson</b>, & S. Lavender (2008).  <a href="/cv/files/Hoepffner_CC_2008.pdf">Ocean Colour and Climate Change</a>, IOCCG report #7.</li>
   <li data-category="satellite">Hoepffner, N., et al. (including <b>C. Wilson</b>) (2008). <a href="/cv/files/Hoepffner_BGC_2008.pdf">Biogeochemical Cycles</a>, IOCCG report #7.</li>
