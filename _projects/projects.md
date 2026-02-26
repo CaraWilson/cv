@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **CoastWatch Satellite Course**
+
 Creation of the CoastWatch Satellite Course in 2006, a short 3-4 day course aimed at exposing scientists from NOAA Fisheries (but open to anyone) to environmental satellite data and showing them ways to easily access the data to use in in their operational work flows. To date over 700 people have taken the course, 57% from NOAA, and 25% from academia.  During COVID the courses were converted to be virtual. Shorter versions of the course are also routinely offered in-person, in conjunction with scientific conferences and also online. 
 
 **North Pacific Chlorophyll Blooms**
