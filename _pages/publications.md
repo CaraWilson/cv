@@ -134,5 +134,5 @@ function filterPubs() {
   <li data-category="hydrothermal"><b>Wilson, C.</b>, et al. (1995). Hydrography above the Mid-Atlantic Ridge (33°-40°N) and within the Lucky Strike segment. J. Geophys. Res., 100: 20,555-20,564.</li>
   <li data-category="other">Falkowski, P. G., et al. (including <b>C. Wilson</b>) (1992). Natural versus anthropogenic factors affecting low-level cloud albedo. Science, 256: 1311-1313.</li>
   <li data-category="other">Falkowski, P. G. and <b>C. Wilson</b> (1992). Phytoplankton productivity in the North Pacific Ocean since 1900. Nature, 358, 741-743.</li>
-  <li data-category="other"><b>Wilson, C.</b> and D. W. R. Wallace (1990). Using the nutrient ratio NO/PO as a tracer of continental shelf waters in the central Arctic Ocean. J. Geophys. Res., 95, 22,193-22,208.</li>
+  <li data-category="other"><b>Wilson, C.</b> and D. W. R. Wallace (1990). <a href="files/Wilson_1990.pdf">Using the nutrient ratio NO/PO as a tracer of continental shelf waters in the central Arctic Ocean.</a> J. Geophys. Res., 95, 22,193-22,208.</li>
 </ol>
