@@ -8,14 +8,14 @@ author_profile: true
 {% include base_path %}
 
 ## Education
-* Ph.D. in Oceanography, Oregon State University, 1997
-* B.Sc. in Oceanography, University of Michigan, 1989
+
+**1997 — Ph.D. in Oceanography** *Oregon State University, Corvallis, OR* <small>Dissertation: [Hydrography and heat flux in hydrothermal regions]</small>
+
+**1989 — B.Sc. in Oceanography** *University of Michigan, Ann Arbor, MI** Ph.D. in Oceanography, Oregon State University, 1997
 
 ## Work experience
 
-## Work experience
-
-| Period | Role | Organization |
+| <center>Period</center> | <center>Role</center> | <center>Organization</center> |
 | :--- | :--- | :--- |
 | **2002 – Pres.** | **Fisheries Research Oceanographer** | NOAA Fisheries<br>*Monterey, CA* |
 | **1999 – 2002** | **Assistant Research Scientist** | NASA/Goddard (GEST & USRA)<br>*Greenbelt, MD* |
