@@ -1,4 +1,4 @@
----
+="---
 layout: single   
 title: "Publications"
 permalink: /publications/
@@ -91,7 +91,7 @@ function filterPubs() {
   <li data-category="blooms">Anderson E.E., <b>C. Wilson</b>, A. H. Knap and T. A. Villareal (2018), Summer diatom blooms in the eastern North Pacific gyre investigated with a long-endurance autonomous surface vehicle. PeerJ 6:e5387. <a href="https://doi.org/10.7717/peerj.5387">https://doi.org/10.7717/peerj.5387</a></li>
   <li data-category="satellite fisheries">Eguchi, T., et al. (including <b>Cara Wilson</b>) (2018), Loggerhead turtles (Caretta caretta) in the California Current: abundance, distribution, and anomalous warming. Frontiers in Marine Science, 5:452. <a href="https://doi.org/10.3389/fmars.2018.00452">https://doi.org/10.3389/fmars.2018.00452</a></li>
   <li data-category="satellite">Lotliker, A.A., et al. (including <b>C. Wilson</b>) (2018), Noctiluca blooms are not associated with hypoxia in the Northeastern Arabian Sea. Harmful Algae, 74, 46-57. <a href="https://doi.org/10.1016/j.hal.2018.03.008">https://doi.org/10.1016/j.hal.2018.03.008</a></li>
-  <li data-category="satellite">Lee, Z., et al. (including <b>C. Wilson</b>) (2018), Global water clarity: continuing a century-long monitoring, Eos, 99. <a href="https://doi.org/10.1029/2018EO097251">https://doi.org/10.1029/2018EO097251</a></li>
+  <li data-category="satellite">Lee, Z., et al. (including <b>C. Wilson</b>) (2018), <a href="https://eos.org/opinions/global-water-clarity-continuing-a-century-long-monitoring">Global water clarity: continuing a century-long monitoring</a>, Eos, 99. <a href="https://doi.org/10.1029/2018EO097251">https://doi.org/10.1029/2018EO097251</a></li>
   <li data-category="satellite">Qi, L., C. Hu, M. Wang, S. Shang and <b>C. Wilson</b> (2017), Floating algae blooms in the East China Sea, Geophys. Res. Lett., 44, 11,501–11,509. <a href="https://doi.org/10.1002/2017GL075525">https://doi.org/10.1002/2017GL075525</a></li>
   <li data-category="satellite fisheries"><b>Wilson, C.</b>, et al. (2016) Southern right whale calf mortality at Península Valdés, Argentina: are harmful algal blooms to blame?, Marine Mammal Science, 32(2),423-451. <a href="https://doi.org/10.1111/mms.12263">https://doi.org/10.1111/mms.12263</a>.</li>
   <li data-category="satellite">Rose, R.A., et al. (including <b>C. Wilson</b>) (2014). Ten Ways Remote Sensing Can Contribute to Conservation. Conservation Biology,29(2), 350-359. <a href="https://doi.org/10.1111/cobi.12397">https://doi.org/10.1111/cobi.12397</a></li>
@@ -121,7 +121,7 @@ function filterPubs() {
   <li data-category="blooms"><b>Wilson, C.</b> (2003). Late summer chlorophyll blooms in the oligotrophic North Pacific subtropical gyre. Geophys. Res. Lett., 30(18), 1942. <a href="https://doi.org/10.1029/2003GL017770">https://doi.org/10.1029/2003GL017770</a></li>
   <li data-category="satellite"><b>Wilson, C.</b> & D. Adamec (2002). A global view of bio-physical coupling from SeaWiFS and TOPEX, J. Geophys. Res., 106, 31,175-31,188. <a href="https://doi.org/10.1029/2001GL014063">https://doi.org/10.1029/2001GL014063</a>.</li>
   <li data-category="satellite"><b>Wilson, C.</b> & D. Adamec (2001).  <a href="/cv/files/Wilson_2001.pdf">Correlations between surface chlorophyll and sea surface height in the tropical Pacific.</a> J. Geophys. Res., 106, 31,175-31,188.</li>
-  <li data-category="hydrothermal southern-ocean">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (2001).  <a href="/cv/files/Klinkhamer_2001.pdf">Discovery of new hydrothermal vent sites in Bransfield Strait, Antarctica.</a> Earth Plant. Sci. Lett.,193, 395-407.</li>
+  <li data-category="hydrothermal southern-ocean">Klinkhammer, G.P., et al. (including <b>C. Wilson</b>) (2001).  <a href="/cv/files/Klinkhammer_2001.pdf">Discovery of new hydrothermal vent sites in Bransfield Strait, Antarctica.</a> Earth Plant. Sci. Lett.,193, 395-407.</li>
   <li data-category="hydrothermal southern-ocean"><b>Wilson, C.</b>, G.P. Klinkhammer, & C.S. Chin (1999).  <a href="/cv/files/Wilson_1999.pdf">Hydrography of the Central and East Basins of the Bransfield Strait, Antarctica.</a> J. Phys. Ocean., 29: 465-479.</li>
   <li data-category="Other">Ashjian, C. J., et al. (including <b>C. Wilson</b>) (1998). <a href="/cv/files/Ashjian_1998.pdf">Diel vertical migration of zooplankton biomass.</a> Cont. Shelf Res., 18, 831-858.</li>
   <li data-category="hydrothermal">Biscoito, M., et al. (including <b>C. Wilson</b>), eds (1998). Proceedings of the first international symposium on deep-sea hydrothermal biology. Cah. Biol. Mar., 39(3/4).</li>
